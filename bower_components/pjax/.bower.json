@@ -1,0 +1,14 @@
+{
+  "name": "pjax",
+  "homepage": "https://github.com/MoOx/pjax",
+  "version": "0.2.5",
+  "_release": "0.2.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.5",
+    "commit": "2d210c33052ba14cbb5451d442b19a86ce52f764"
+  },
+  "_source": "https://github.com/MoOx/pjax.git",
+  "_target": "~0.2.3",
+  "_originalSource": "pjax"
+}
