@@ -1,2 +1,2 @@
-# bobo-site
-Sitio de los Boscos
+Documents: 
+Read the "html/docs.html"
